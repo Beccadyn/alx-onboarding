@@ -1,0 +1,11 @@
+// This program calculates the running sum of numbers
+// For loop
+
+//Break when a negative number is encountered
+//Set counter to 0
+// Increment counter by 1
+
+Input a
+  If a == negative number, break
+    print sum
+  Else sum = sum + a

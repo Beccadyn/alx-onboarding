@@ -1,0 +1,8 @@
+//This program calculates the sum of the squares of given input of numbers
+Input number x = 2
+Input number y = 4
+x = x*x
+y = y*y
+Initialize z 
+z = x + y
+print z

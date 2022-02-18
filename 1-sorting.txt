@@ -1,0 +1,26 @@
+Read x,y,z
+
+If (x<y)
+   
+   If (y<z)
+      Write x,y,z
+   Else
+      If(z<x)
+        Write z,x,y
+      Else
+        Write x,z,y
+
+else
+  If(x<z)
+     Write y,x,z
+  Else
+     If (z<y)
+        Write z,y,x
+     Else
+
+
+
+
+
+
+         Write y,z,x
